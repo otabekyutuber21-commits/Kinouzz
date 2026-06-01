@@ -1,0 +1,6 @@
+{
+  "name": "Kino Bot Dashboard",
+  "description": "Professional Telegram Movie Bot Management System and Analytics Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
